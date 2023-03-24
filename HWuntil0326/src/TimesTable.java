@@ -9,6 +9,7 @@ public class TimesTable {
 				System.out.print(i+"X"+k+"="+(i*k)+" ");
 			}
 		System.out.print("\n");
+		
 		}
 	}
 
