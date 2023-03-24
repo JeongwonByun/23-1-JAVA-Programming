@@ -6,7 +6,7 @@ public class RockScissorPaper {
 		// TODO Auto-generated method stub
 		
 		Scanner sc = new Scanner(System.in);
-		System.out.println("가위(0) 바위(1) 보(2) 중 숫자를 입력하시오. : ");
+		System.out.print("가위(0) 바위(1) 보(2) 중 숫자를 입력하시오. : ");
 		int user = sc.nextInt();
 		
 		int computer = (int) (Math.random()*3);

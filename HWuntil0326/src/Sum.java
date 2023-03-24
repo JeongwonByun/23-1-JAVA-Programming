@@ -8,7 +8,7 @@ public class Sum {
 		while(value!=-1) {
 			sum = sum + value;
 			Scanner sc = new Scanner(System.in);
-			System.out.println("정수를 입력하시오 : ");
+			System.out.print("정수를 입력하시오 : ");
 			value = sc.nextInt();
 			
 		}
