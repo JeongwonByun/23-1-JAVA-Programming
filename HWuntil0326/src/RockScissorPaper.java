@@ -16,7 +16,6 @@ public class RockScissorPaper {
 			System.out.println("인간:" + user + " 컴퓨터:" + computer + " 인간 승리");
 		else
 			System.out.println("인간:" + user + " 컴퓨터:" + computer + " 컴퓨터 승리");
-
 	}
 
 }
